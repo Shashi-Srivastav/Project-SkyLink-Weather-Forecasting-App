@@ -1,3 +1,5 @@
+![Annotation 2023-08-18 201809](https://github.com/Shashi-Srivastav/Project-SkyLink-Weather-Forecasting-App/assets/119119389/4a7b9f9b-d821-4b2a-a24b-5508e4344a45)
+
 SkyLink Weather Forecasting App
 
 SkyLink is a weather forecasting app that provides up-to-date weather information for your current location or any other place you search for. Using data from the OpenWeather API, this app offers real-time details about weather conditions, including temperature, wind speed, humidity, and cloud coverage.
