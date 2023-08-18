@@ -10,9 +10,12 @@ Search Anywhere: Search for weather information in any location around the world
 Comprehensive Data: Receive detailed data on wind speed, humidity, cloud coverage, and more.
 User-Friendly Interface: Enjoy an intuitive and visually pleasing user interface that makes weather information easy to understand.
 
-Technologies Used
+Technologies Used -
+
 Frontend: HTML, CSS, JavaScript
+
 API: OpenWeather API
+
 Data Visualization: Display weather information in a clear and visually appealing manner.
 
 Credits
